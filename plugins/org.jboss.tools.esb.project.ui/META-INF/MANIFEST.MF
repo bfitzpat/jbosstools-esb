@@ -42,7 +42,7 @@ Require-Bundle: org.eclipse.ui,
 Bundle-ActivationPolicy: lazy
 Bundle-Vendor: %Bundle-Vendor.0
 Eclipse-RegisterBuddy: org.eclipse.jst.ws.annotations.core
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Bundle-ClassPath: .,
  lib/jbossesb-rosetta.jar
 Export-Package: org.jboss.soa.esb.actions.annotation,
